@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "build": "eleventy"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.0-canary.21",
+    "@11ty/eleventy-plugin-webc": "^0.8.1",
+    "@aaashur/demo-shared-webc-components": "github:ashur/demo-shared-webc-components#semver:^v0.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.30.0",
+    "eslint-plugin-sort-requires": "^2.1.0"
+  },
+  "eslintIgnore": [
+    "!.*"
+  ]
+}

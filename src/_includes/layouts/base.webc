@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title @text="title"></title>
+	<script type="module" @raw="getJs(page.url)" webc:keep></script>
+	<link rel="stylesheet" href="/main.css" webc:keep>
+</head>
+<body @raw="content"></body>
+</html>
