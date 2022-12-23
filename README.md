@@ -1,6 +1,6 @@
 # Using Shared WebC Components
 
-This repo demonstrates how rad it is to import [WebC components](https://github.com/11ty/webc) that have been [installed via NPM](https://github.com/11ty/webc#dynamic-import):
+This repo demonstrates how rad it is to import external [WebC](https://github.com/11ty/webc) components that have been installed via NPM:
 
 ```html
 <confetti-button
