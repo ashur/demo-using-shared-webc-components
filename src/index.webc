@@ -8,5 +8,8 @@ title: Using Shared WebC Components
 		webc:import="npm:@aaashur/demo-shared-webc-components"
 	></confetti-button>
 
-	<p><a href="">Read more about this</a> →</p>
+	<ul class="links">
+		<li><a href="#">Read more</a></li>
+		<li><a href="https://github.com/ashur/demo-using-shared-webc-components">View Source</a></li>
+	</ul>
 </main>

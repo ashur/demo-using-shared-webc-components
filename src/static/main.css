@@ -24,6 +24,14 @@ a {
 	margin-top: 2em;
 }
 
+.links {
+	column-gap: 2em;
+	display: flex;
+	justify-content: center;
+	list-style: none;
+	padding: 0;
+}
+
 confetti-button button {
 	-webkit-appearance: none;
 	appearance: none;
