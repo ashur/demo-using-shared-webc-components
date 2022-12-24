@@ -1,6 +1,6 @@
 # Using Shared WebC Components
 
-This repo demonstrates how rad it is to import external [WebC](https://github.com/11ty/webc) components that have been installed via NPM:
+This repo demonstrates how easy (and rad) it is to import external [WebC](https://github.com/11ty/webc) components that have been installed via NPM.
 
 ```html
 <confetti-button
@@ -9,6 +9,8 @@ This repo demonstrates how rad it is to import external [WebC](https://github.co
 ></confetti-button>
 ```
 
+[Read more](https://multiline.co/mment/2022/12/importing-external-webc-components) about why this is especially great for Eleventy projects that use statically generated components.
+
 ## Demo
 
-[See the live demo](https://ashur-shared-webc-demo.netlify.app)
+[See a live demo](https://ashur-shared-webc-demo.netlify.app) of the imported component in action.
