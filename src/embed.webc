@@ -7,4 +7,6 @@ title: Using Shared WebC Components
 		text="Get Ready for Confetti"
 		webc:import="npm:@aaashur/demo-shared-webc-components"
 	></confetti-button>
+
+	<p class="psst">(Psst! This is an interactive embed 🎉)</p>
 </main>

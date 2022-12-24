@@ -32,6 +32,10 @@ a {
 	padding: 0;
 }
 
+.psst {
+	font-size: 0.875rem;
+}
+
 confetti-button button {
 	-webkit-appearance: none;
 	appearance: none;
@@ -44,4 +48,8 @@ confetti-button button {
 	font-weight: bold;
 	padding: 0.75em 1.5em;
 	touch-action: manipulation;
+}
+
+confetti-button button:active {
+
 }
