@@ -4,12 +4,12 @@ title: Using Shared WebC Components
 ---
 <main class="page">
 	<confetti-button
-		text="It’s Confetti Time"
+		text="Get Ready for Confetti"
 		webc:import="npm:@aaashur/demo-shared-webc-components"
 	></confetti-button>
 
 	<ul class="links">
-		<li><a href="#">Read more</a></li>
+		<li><a href="https://multiline.co/mment/2022/12/importing-external-webc-components">Read more</a></li>
 		<li><a href="https://github.com/ashur/demo-using-shared-webc-components">View Source</a></li>
 	</ul>
 </main>
