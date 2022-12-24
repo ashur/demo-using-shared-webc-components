@@ -1,0 +1,10 @@
+---
+layout: layouts/base.webc
+title: Using Shared WebC Components
+---
+<main class="page">
+	<confetti-button
+		text="Get Ready for Confetti"
+		webc:import="npm:@aaashur/demo-shared-webc-components"
+	></confetti-button>
+</main>
