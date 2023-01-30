@@ -12,6 +12,11 @@ a {
 	color: inherit;
 }
 
+p,
+ul {
+	margin-bottom: 0;
+}
+
 .page {
 	align-content: center;
 	display: grid;
